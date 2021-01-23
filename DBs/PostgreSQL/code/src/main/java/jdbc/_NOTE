@@ -1,0 +1,2 @@
+Tutorial from here: https://stackabuse.com/working-with-postgresql-in-java/
+You need to create the DB 'mydb' manually with credentials, see JdbcConnection.
